@@ -53,7 +53,7 @@ print('Polarity:', get_polarity(text_two))
 print('----------------------------------------')
 
 
-text_three = 'Bundle iyi ndiya bho koma izi zomatha changu nde sizabwibo'
+text_three = 'Bundle iyi ndiya bho koma izi zomatha changu nde sizabwino'
 print('-----------text and polarity------------')
 print('Text: ', text_three)
 print('Polarity:', get_polarity(text_three))
